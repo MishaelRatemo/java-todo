@@ -1,6 +1,6 @@
-# Java-Week3-ToDo-List
+# Java-ToDo-List
 
-Author: Brian Marete
+Author: Mishael Ratemo
 
 Official repo for the "To Do List" project using Java, Spark, Handlebars etc for week 3 of java unit.
 
